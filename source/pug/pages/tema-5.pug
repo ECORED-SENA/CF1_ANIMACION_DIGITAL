@@ -1,0 +1,60 @@
+.container#tema_5
+
+    .header-ecored
+        h1 5. Creación y diseño de personajes
+
+    .jumbotron.bg-white               
+      .embed-responsive.embed-responsive-16by9
+        iframe.embed-responsive-item(width='560', height='315', src='https://www.youtube.com/embed/g5_X7IImhiY', frameborder='0', allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture', 
+        allowfullscreen='')        
+      .row.mt-5
+        .col-12
+          p.mb-0 Una buena trama es fundamental para el desarrollo de la historia, pero esto solo puede ser posible si se tienen unos personajes sólidos que permitan que la historia se desenvuelva.
+
+    .jumbotron.bg-white            
+      .row
+        .col-12
+          .list
+            .list__item
+              .list__item__icon
+                img(src="assets/images/icons/icon_duoble_chevron.svg", alt="")
+            .list__txt
+              h3 Crear fichas o biografías de personajes
+
+      .row.mb-5
+        .col-12
+          p Es una de las recomendaciones más extendidas en material bibliográfico y cursos del guion, la creación de fichas suele abarcar los aspectos físicos, psicológicos y sociológicos del personaje.
+          p En los aspectos físicos se describen todos aquellos rasgos que dan identidad visual al personaje, elementos como la edad que tiene y que aparenta, estatura, tono de piel, color de ojos, tipo y color de cabello, sexo, complexión, condiciones físicas y cualquier elemento que permita establecer como se ve el personaje.
+          p En los aspectos psicológicos se exploran elementos que definen su comportamiento como su temperamento, el sentir hacia sí mismo, como se ve ante los demás, fortalezas, debilidades, objetivos, sueños, metas, miedos y cualquier otra cosa que hable sobre su actitud hacia la vida como hobbies, en dónde vive, dónde creció, dónde se educó y en general, información que hable de su entorno social.
+          p Es necesario tener en cuenta que toda esta información debe ser relevante y útil para el desarrollo del personaje en la historia y se puede manejar a modo de ficha o como una biografía narrada, lo importante es que con estos datos se construya un personaje profundo que cause interés y tenga elementos para sufrir una transformación durante el transcurso de la historia.
+
+      .row
+        .col-12
+          #carouselExampleIndicators.carousel.slide(data-ride='carousel')
+            ol.carousel-indicators
+              li.active(data-target='#carouselExampleIndicators', data-slide-to='0')
+              li(data-target='#carouselExampleIndicators', data-slide-to='1')
+              li(data-target='#carouselExampleIndicators', data-slide-to='2')
+              li(data-target='#carouselExampleIndicators', data-slide-to='3')
+              li(data-target='#carouselExampleIndicators', data-slide-to='4')
+              li(data-target='#carouselExampleIndicators', data-slide-to='5')
+            .carousel-inner
+              .carousel-item.active
+                img.d-block.w-100(src='assets/images/pages/tema_5/slider_5_01.jpg', alt='0')
+              .carousel-item
+                img.d-block.w-100(src='assets/images/pages/tema_5/slider_5_02.jpg', alt='1')
+              .carousel-item
+                img.d-block.w-100(src='assets/images/pages/tema_5/slider_5_03.jpg', alt='2')
+              .carousel-item
+                img.d-block.w-100(src='assets/images/pages/tema_5/slider_5_04.jpg', alt='3')
+              .carousel-item
+                img.d-block.w-100(src='assets/images/pages/tema_5/slider_5_05.jpg', alt='4')
+              .carousel-item
+                img.d-block.w-100(src='assets/images/pages/tema_5/slider_5_06.jpg', alt='5')
+                                                   
+            a.carousel-control-prev(href='#carouselExampleIndicators', role='button', data-slide='prev')
+              span.carousel-control-prev-icon(aria-hidden='true')
+              span.sr-only Previous
+            a.carousel-control-next(href='#carouselExampleIndicators', role='button', data-slide='next')
+              span.carousel-control-next-icon(aria-hidden='true')
+              span.sr-only Next

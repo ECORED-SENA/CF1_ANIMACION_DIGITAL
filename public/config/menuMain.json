@@ -1,0 +1,134 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "historia_animacion",
+    "title": "1. Historia de la animación",    
+    "path": "pages/tema-1.html"    
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "tecnicas_animacion",
+    "title": "2. Técnicas de animación",    
+    "path": "pages/tema-2.html"      
+  },
+  {
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "animacion_clasica",
+    "title": "2.1 Animación tradicional o clásica",    
+    "path": "pages/tema-2-1.html"    
+  },
+  {
+    "id": 4,
+    "icon": "fa fa-file-text",
+    "slug": "stop_motion",
+    "title": "2.2 Stop motion",    
+    "path": "pages/tema-2-2.html"    
+  },
+  {
+    "id": 5,
+    "icon": "fa fa-file-text",
+    "slug": "animacion_cgi",
+    "title": "2.3 Animación por computadora o CGI",    
+    "path": "pages/tema-2-3.html"    
+  },
+  {
+    "id": 6,
+    "icon": "fa fa-play-circle",
+    "slug": "esquema_produccion_audiovisual",
+    "title": "3. Esquema de producción audiovisual",    
+    "path": "pages/tema-3.html"       
+  },
+  {
+    "id": 7,
+    "icon": "fa fa-file-text",
+    "slug": "etapa_desarrollo",
+    "title": "3.1 Etapa 1: desarrollo",    
+    "path": "pages/tema-3-1.html"    
+  },
+  {
+    "id": 8,
+    "icon": "fa fa-file-text",
+    "slug": "etapa_preproduccion",
+    "title": "3.2 Etapa 2: preproducción",    
+    "path": "pages/tema-3-2.html"    
+  },
+  {
+    "id": 9,
+    "icon": "fa fa-file-text",
+    "slug": "etapa_produccion",
+    "title": "3.3 Etapa 3: producción",    
+    "path": "pages/tema-3-3.html"    
+  },
+  {
+    "id": 10,
+    "icon": "fa fa-file-text",
+    "slug": "etapa_posproduccion",
+    "title": "3.4 Etapa 4: posproducción",    
+    "path": "pages/tema-3-4.html"    
+  },
+  {
+    "id": 11,
+    "icon": "fa fa-file-text",
+    "slug": "etapa_distribucion",
+    "title": "3.5 Etapa 5: distribución",    
+    "path": "pages/tema-3-5.html"    
+  },
+  {
+    "id": 12,
+    "icon": "fa fa-play-circle",
+    "slug": "esquemas_narracion",
+    "title": "4. Esquemas de narración",    
+    "path": "pages/tema-4.html"    
+  },
+  {
+    "id": 13,
+    "icon": "fa fa-file-text",
+    "slug": "modelo_aristotelico",
+    "title": "4.1 Modelo Aristotélico y el paradigma",    
+    "path": "pages/tema-4-1.html"    
+  },
+  {
+    "id": 14,
+    "icon": "fa fa-file-text",
+    "slug": "viaje_heroe",
+    "title": "4.2 El viaje del héroe",    
+    "path": "pages/tema-4-2.html"    
+  },
+  {
+    "id": 15,
+    "icon": "fa fa-play-circle",
+    "slug": "creacion_diseno_personajes",
+    "title": "5. Creación y diseño de personajes",    
+    "path": "pages/tema-5.html"    
+  },
+  {
+    "id": 16,
+    "icon": "fa fa-play-circle",
+    "slug": "guion",
+    "title": "6. Guion",    
+    "path": "pages/tema-6.html"    
+  },
+  {
+    "id": 17,
+    "icon": "fa fa-file-text",
+    "slug": "guion_animacion",
+    "title": "6.1 El guion en la animación",    
+    "path": "pages/tema-6-1.html"    
+  },
+  {
+    "id": 18,
+    "icon": "fa fa-file-text",
+    "slug": "guion_literario",
+    "title": "6.2 Guion literario",    
+    "path": "pages/tema-6-2.html"    
+  }
+]
